@@ -7,6 +7,7 @@ Design thinking is divided into five critical phases.
 * __Ideate__: Third process is ideate. Ideate is all about coming up with possible solutions. 
 * __Prototype__: The fourth phase is the prototype. Instead of building out the entire system, we need to focus on building the prototype in order to ensure that we gather experience from the intended user, and then implement the suggestions which are made on the prototype. 
 * __Test__: Finally, we test phase. Test is all about refining the prototype in order to bring in the actual and the real improved customer experience that is required from the product. 
+
 ![Design Thinking Proces](Images/design_thinking_process.PNG)
 
 All these five phases can be applied in order to derive DevOps processes as well.
