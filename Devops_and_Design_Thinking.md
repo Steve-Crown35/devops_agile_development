@@ -1,4 +1,4 @@
-# DevOps Design Practice - the design thinking approachthat we can apply to complement DevOps design practice
+# DevOps Design Practice - the design thinking approach that we can apply to complement DevOps Design Practice
 In order to cultivate and bring in the culture of DevOps in an organization, along with agility or Agile principle, we need to adopt the right process. Design thinking approach provides capability of mapping how a human thinks, along with how solutions can be derived. Let's try to understand the process.
 
 Design thinking is divided into five critical phases. 
