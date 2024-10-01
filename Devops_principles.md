@@ -13,7 +13,7 @@ It starts with evaluating the solution. And then moving on to the development pr
 where you can have two different states: __in progress__, or __completed__ state.
 Completed state is also popularly known as __done__ state.You can have various intermediary stages as well 
 depending on the control that you want at different level of development processes.
-When it comes to operations, it's all about whether your ____developed artifacts__ are made available 
+When it comes to operations, it's all about whether your __developed artifacts__ are made available 
 in __operational environment__ or not. It can be in progress or completed.
 You have to have __testing of the components__, as well as a __testing of the operational environment__ 
 and then, finally deploy the artifacts to make it available to the end user.
@@ -28,3 +28,13 @@ The principle of feedback helps in amplifying the productivity of the product an
 The principle of continuous learning ensures frequent improvements of the product.
 We learn from what we do.And in DevOps culture, it adds value and enables entire team to learn and improve from the feedback which has been received from end user about the product. It can also promote and enable organizational learning by adopting the right tool which can enhance sharing of the content. Continual learning also enables local discoveries that are made and it helps to create a repository which can be further used in global improvements or transformations.In order to ensure that you are able to adopt to the culture of continual learning, you need to conduct frequent experiments and fail fast. Fail fast will ensure that you gather more insight about the system and improvise it as and when required.
 ![The principle of continuous learning](Images/contuous_learning.PNG)
+
+
+# Knitting All three Principles Together
+Let's put all three together in a single flow in order to ensure that we have adopted all the three principles together. This single flow indicates collaboration between development and operations team. Starting with the flow.Flow provides capability of __continuous integration, delivery, and deployment__.And it also helps us to identify the right value stream and map it.We can adopt __Kanban__ or __Scrum__ in order to manage the flow. The second principle is adopted, again, to establish proper collaboration between development team and operations team. And that can be done by continuous experimentation, learning, and also adopting improvement to the failures. Finally, the Feedback is all about peer review, monitoring, promoting and learning by using dashboards, having the right process measurement in place, and adopting practices like ITSM ( Information Technology Service Management) which focuses on:
+
+* __Incident management__: Efficiently handling and resolving issues.
+* __Change management__: Ensuring that changes to systems are tracked and managed to minimize disruptions.
+* __Problem management__: Identifying and mitigating the root causes of issues.
+* __Service request management__: Handling user requests for new services or modifications to existing ones.
+![A Single flow of all three devops principles](Images/a_single_flow_of_all_3_devops_principles.PNG)
