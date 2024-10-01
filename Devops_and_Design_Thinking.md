@@ -16,7 +16,9 @@ We need to understand that we will have a design thinking cycle, and that cycle 
 ![How Design Thinking Helps Agile](Images/how_design_thinking_helps_agile.PNG)
 # Applying Design Thinking on DevOps
 After understanding how we apply design thinking on agility to derive a solution, let's apply design thinking on DevOps. DevOps is represented by bringing in collaborative development and operations effort by different teams.It's a combination of Agile development along with operations. We can apply design thinking and get a lean start up. We need to identify the opportunities and challenges.Then we need to again, come up with different solutions that we can provide in order to ensure that collaborative efforts of team and insight of system is built by conducting walkthroughs among the team. We need to build a prototype and validate the prototype. Once we have validated the prototype, we can adopt a __minimum viable product__ maturity model. Once this model is defined, we can adopt the identified Agile principles that can be applied on development and DevOps principle which can enhance collaboration among development and operations team with focus on automation.
+
 ![Applying Design Thinking on DevOps](Images/applying_design_thinking_on_devops.PNG)
+
 # Benefits of Applying Design Thinking on DevOps
 * First benefit is it reduces time-to-market because we are capturing users' expectation directly.
 * It can also reduce cost and provide better return on investment.Since customers are directly interacting with the prototype and we are collecting the feedback, we can provide improved customer retention and loyalty. 
